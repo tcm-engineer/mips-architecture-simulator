@@ -1,0 +1,5 @@
+ADD t3 t0 t1
+ADDI t3 t3 10
+MULT t3 t3 t1
+MULT t3 t3 t3
+MULT t3 t3 t3

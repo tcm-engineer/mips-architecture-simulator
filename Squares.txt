@@ -1,0 +1,5 @@
+beq t1 t4 6
+MULT t3 t1 t2
+ADD t1 t1 t0
+ADD t2 t2 t0
+j 0

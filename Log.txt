@@ -1,0 +1,1984 @@
+PC: 1
+Instruction - beq
+t3 contents: 0
+
+PC: 2
+Instruction - MULT
+t3 contents: 1
+
+PC: 3
+Instruction - ADD
+t3 contents: 1
+
+PC: 4
+Instruction - ADD
+t3 contents: 1
+
+PC: 0
+Instruction - j
+t3 contents: 1
+
+PC: 1
+Instruction - beq
+t3 contents: 1
+
+PC: 2
+Instruction - MULT
+t3 contents: 4
+
+PC: 3
+Instruction - ADD
+t3 contents: 4
+
+PC: 4
+Instruction - ADD
+t3 contents: 4
+
+PC: 0
+Instruction - j
+t3 contents: 4
+
+PC: 1
+Instruction - beq
+t3 contents: 4
+
+PC: 2
+Instruction - MULT
+t3 contents: 9
+
+PC: 3
+Instruction - ADD
+t3 contents: 9
+
+PC: 4
+Instruction - ADD
+t3 contents: 9
+
+PC: 0
+Instruction - j
+t3 contents: 9
+
+PC: 1
+Instruction - beq
+t3 contents: 9
+
+PC: 2
+Instruction - MULT
+t3 contents: 16
+
+PC: 3
+Instruction - ADD
+t3 contents: 16
+
+PC: 4
+Instruction - ADD
+t3 contents: 16
+
+PC: 0
+Instruction - j
+t3 contents: 16
+
+PC: 1
+Instruction - beq
+t3 contents: 16
+
+PC: 2
+Instruction - MULT
+t3 contents: 25
+
+PC: 3
+Instruction - ADD
+t3 contents: 25
+
+PC: 4
+Instruction - ADD
+t3 contents: 25
+
+PC: 0
+Instruction - j
+t3 contents: 25
+
+PC: 1
+Instruction - beq
+t3 contents: 25
+
+PC: 2
+Instruction - MULT
+t3 contents: 36
+
+PC: 3
+Instruction - ADD
+t3 contents: 36
+
+PC: 4
+Instruction - ADD
+t3 contents: 36
+
+PC: 0
+Instruction - j
+t3 contents: 36
+
+PC: 1
+Instruction - beq
+t3 contents: 36
+
+PC: 2
+Instruction - MULT
+t3 contents: 49
+
+PC: 3
+Instruction - ADD
+t3 contents: 49
+
+PC: 4
+Instruction - ADD
+t3 contents: 49
+
+PC: 0
+Instruction - j
+t3 contents: 49
+
+PC: 1
+Instruction - beq
+t3 contents: 49
+
+PC: 2
+Instruction - MULT
+t3 contents: 64
+
+PC: 3
+Instruction - ADD
+t3 contents: 64
+
+PC: 4
+Instruction - ADD
+t3 contents: 64
+
+PC: 0
+Instruction - j
+t3 contents: 64
+
+PC: 1
+Instruction - beq
+t3 contents: 64
+
+PC: 2
+Instruction - MULT
+t3 contents: 81
+
+PC: 3
+Instruction - ADD
+t3 contents: 81
+
+PC: 4
+Instruction - ADD
+t3 contents: 81
+
+PC: 0
+Instruction - j
+t3 contents: 81
+
+PC: 1
+Instruction - beq
+t3 contents: 81
+
+PC: 2
+Instruction - MULT
+t3 contents: 100
+
+PC: 3
+Instruction - ADD
+t3 contents: 100
+
+PC: 4
+Instruction - ADD
+t3 contents: 100
+
+PC: 0
+Instruction - j
+t3 contents: 100
+
+PC: 1
+Instruction - beq
+t3 contents: 100
+
+PC: 2
+Instruction - MULT
+t3 contents: 121
+
+PC: 3
+Instruction - ADD
+t3 contents: 121
+
+PC: 4
+Instruction - ADD
+t3 contents: 121
+
+PC: 0
+Instruction - j
+t3 contents: 121
+
+PC: 1
+Instruction - beq
+t3 contents: 121
+
+PC: 2
+Instruction - MULT
+t3 contents: 144
+
+PC: 3
+Instruction - ADD
+t3 contents: 144
+
+PC: 4
+Instruction - ADD
+t3 contents: 144
+
+PC: 0
+Instruction - j
+t3 contents: 144
+
+PC: 1
+Instruction - beq
+t3 contents: 144
+
+PC: 2
+Instruction - MULT
+t3 contents: 169
+
+PC: 3
+Instruction - ADD
+t3 contents: 169
+
+PC: 4
+Instruction - ADD
+t3 contents: 169
+
+PC: 0
+Instruction - j
+t3 contents: 169
+
+PC: 1
+Instruction - beq
+t3 contents: 169
+
+PC: 2
+Instruction - MULT
+t3 contents: 196
+
+PC: 3
+Instruction - ADD
+t3 contents: 196
+
+PC: 4
+Instruction - ADD
+t3 contents: 196
+
+PC: 0
+Instruction - j
+t3 contents: 196
+
+PC: 1
+Instruction - beq
+t3 contents: 196
+
+PC: 2
+Instruction - MULT
+t3 contents: 225
+
+PC: 3
+Instruction - ADD
+t3 contents: 225
+
+PC: 4
+Instruction - ADD
+t3 contents: 225
+
+PC: 0
+Instruction - j
+t3 contents: 225
+
+PC: 1
+Instruction - beq
+t3 contents: 225
+
+PC: 2
+Instruction - MULT
+t3 contents: 256
+
+PC: 3
+Instruction - ADD
+t3 contents: 256
+
+PC: 4
+Instruction - ADD
+t3 contents: 256
+
+PC: 0
+Instruction - j
+t3 contents: 256
+
+PC: 1
+Instruction - beq
+t3 contents: 256
+
+PC: 2
+Instruction - MULT
+t3 contents: 289
+
+PC: 3
+Instruction - ADD
+t3 contents: 289
+
+PC: 4
+Instruction - ADD
+t3 contents: 289
+
+PC: 0
+Instruction - j
+t3 contents: 289
+
+PC: 1
+Instruction - beq
+t3 contents: 289
+
+PC: 2
+Instruction - MULT
+t3 contents: 324
+
+PC: 3
+Instruction - ADD
+t3 contents: 324
+
+PC: 4
+Instruction - ADD
+t3 contents: 324
+
+PC: 0
+Instruction - j
+t3 contents: 324
+
+PC: 1
+Instruction - beq
+t3 contents: 324
+
+PC: 2
+Instruction - MULT
+t3 contents: 361
+
+PC: 3
+Instruction - ADD
+t3 contents: 361
+
+PC: 4
+Instruction - ADD
+t3 contents: 361
+
+PC: 0
+Instruction - j
+t3 contents: 361
+
+PC: 1
+Instruction - beq
+t3 contents: 361
+
+PC: 2
+Instruction - MULT
+t3 contents: 400
+
+PC: 3
+Instruction - ADD
+t3 contents: 400
+
+PC: 4
+Instruction - ADD
+t3 contents: 400
+
+PC: 0
+Instruction - j
+t3 contents: 400
+
+PC: 1
+Instruction - beq
+t3 contents: 400
+
+PC: 2
+Instruction - MULT
+t3 contents: 441
+
+PC: 3
+Instruction - ADD
+t3 contents: 441
+
+PC: 4
+Instruction - ADD
+t3 contents: 441
+
+PC: 0
+Instruction - j
+t3 contents: 441
+
+PC: 1
+Instruction - beq
+t3 contents: 441
+
+PC: 2
+Instruction - MULT
+t3 contents: 484
+
+PC: 3
+Instruction - ADD
+t3 contents: 484
+
+PC: 4
+Instruction - ADD
+t3 contents: 484
+
+PC: 0
+Instruction - j
+t3 contents: 484
+
+PC: 1
+Instruction - beq
+t3 contents: 484
+
+PC: 2
+Instruction - MULT
+t3 contents: 529
+
+PC: 3
+Instruction - ADD
+t3 contents: 529
+
+PC: 4
+Instruction - ADD
+t3 contents: 529
+
+PC: 0
+Instruction - j
+t3 contents: 529
+
+PC: 1
+Instruction - beq
+t3 contents: 529
+
+PC: 2
+Instruction - MULT
+t3 contents: 576
+
+PC: 3
+Instruction - ADD
+t3 contents: 576
+
+PC: 4
+Instruction - ADD
+t3 contents: 576
+
+PC: 0
+Instruction - j
+t3 contents: 576
+
+PC: 1
+Instruction - beq
+t3 contents: 576
+
+PC: 2
+Instruction - MULT
+t3 contents: 625
+
+PC: 3
+Instruction - ADD
+t3 contents: 625
+
+PC: 4
+Instruction - ADD
+t3 contents: 625
+
+PC: 0
+Instruction - j
+t3 contents: 625
+
+PC: 1
+Instruction - beq
+t3 contents: 625
+
+PC: 2
+Instruction - MULT
+t3 contents: 676
+
+PC: 3
+Instruction - ADD
+t3 contents: 676
+
+PC: 4
+Instruction - ADD
+t3 contents: 676
+
+PC: 0
+Instruction - j
+t3 contents: 676
+
+PC: 1
+Instruction - beq
+t3 contents: 676
+
+PC: 2
+Instruction - MULT
+t3 contents: 729
+
+PC: 3
+Instruction - ADD
+t3 contents: 729
+
+PC: 4
+Instruction - ADD
+t3 contents: 729
+
+PC: 0
+Instruction - j
+t3 contents: 729
+
+PC: 1
+Instruction - beq
+t3 contents: 729
+
+PC: 2
+Instruction - MULT
+t3 contents: 784
+
+PC: 3
+Instruction - ADD
+t3 contents: 784
+
+PC: 4
+Instruction - ADD
+t3 contents: 784
+
+PC: 0
+Instruction - j
+t3 contents: 784
+
+PC: 1
+Instruction - beq
+t3 contents: 784
+
+PC: 2
+Instruction - MULT
+t3 contents: 841
+
+PC: 3
+Instruction - ADD
+t3 contents: 841
+
+PC: 4
+Instruction - ADD
+t3 contents: 841
+
+PC: 0
+Instruction - j
+t3 contents: 841
+
+PC: 1
+Instruction - beq
+t3 contents: 841
+
+PC: 2
+Instruction - MULT
+t3 contents: 900
+
+PC: 3
+Instruction - ADD
+t3 contents: 900
+
+PC: 4
+Instruction - ADD
+t3 contents: 900
+
+PC: 0
+Instruction - j
+t3 contents: 900
+
+PC: 1
+Instruction - beq
+t3 contents: 900
+
+PC: 2
+Instruction - MULT
+t3 contents: 961
+
+PC: 3
+Instruction - ADD
+t3 contents: 961
+
+PC: 4
+Instruction - ADD
+t3 contents: 961
+
+PC: 0
+Instruction - j
+t3 contents: 961
+
+PC: 1
+Instruction - beq
+t3 contents: 961
+
+PC: 2
+Instruction - MULT
+t3 contents: 1024
+
+PC: 3
+Instruction - ADD
+t3 contents: 1024
+
+PC: 4
+Instruction - ADD
+t3 contents: 1024
+
+PC: 0
+Instruction - j
+t3 contents: 1024
+
+PC: 1
+Instruction - beq
+t3 contents: 1024
+
+PC: 2
+Instruction - MULT
+t3 contents: 1089
+
+PC: 3
+Instruction - ADD
+t3 contents: 1089
+
+PC: 4
+Instruction - ADD
+t3 contents: 1089
+
+PC: 0
+Instruction - j
+t3 contents: 1089
+
+PC: 1
+Instruction - beq
+t3 contents: 1089
+
+PC: 2
+Instruction - MULT
+t3 contents: 1156
+
+PC: 3
+Instruction - ADD
+t3 contents: 1156
+
+PC: 4
+Instruction - ADD
+t3 contents: 1156
+
+PC: 0
+Instruction - j
+t3 contents: 1156
+
+PC: 1
+Instruction - beq
+t3 contents: 1156
+
+PC: 2
+Instruction - MULT
+t3 contents: 1225
+
+PC: 3
+Instruction - ADD
+t3 contents: 1225
+
+PC: 4
+Instruction - ADD
+t3 contents: 1225
+
+PC: 0
+Instruction - j
+t3 contents: 1225
+
+PC: 1
+Instruction - beq
+t3 contents: 1225
+
+PC: 2
+Instruction - MULT
+t3 contents: 1296
+
+PC: 3
+Instruction - ADD
+t3 contents: 1296
+
+PC: 4
+Instruction - ADD
+t3 contents: 1296
+
+PC: 0
+Instruction - j
+t3 contents: 1296
+
+PC: 1
+Instruction - beq
+t3 contents: 1296
+
+PC: 2
+Instruction - MULT
+t3 contents: 1369
+
+PC: 3
+Instruction - ADD
+t3 contents: 1369
+
+PC: 4
+Instruction - ADD
+t3 contents: 1369
+
+PC: 0
+Instruction - j
+t3 contents: 1369
+
+PC: 1
+Instruction - beq
+t3 contents: 1369
+
+PC: 2
+Instruction - MULT
+t3 contents: 1444
+
+PC: 3
+Instruction - ADD
+t3 contents: 1444
+
+PC: 4
+Instruction - ADD
+t3 contents: 1444
+
+PC: 0
+Instruction - j
+t3 contents: 1444
+
+PC: 1
+Instruction - beq
+t3 contents: 1444
+
+PC: 2
+Instruction - MULT
+t3 contents: 1521
+
+PC: 3
+Instruction - ADD
+t3 contents: 1521
+
+PC: 4
+Instruction - ADD
+t3 contents: 1521
+
+PC: 0
+Instruction - j
+t3 contents: 1521
+
+PC: 1
+Instruction - beq
+t3 contents: 1521
+
+PC: 2
+Instruction - MULT
+t3 contents: 1600
+
+PC: 3
+Instruction - ADD
+t3 contents: 1600
+
+PC: 4
+Instruction - ADD
+t3 contents: 1600
+
+PC: 0
+Instruction - j
+t3 contents: 1600
+
+PC: 1
+Instruction - beq
+t3 contents: 1600
+
+PC: 2
+Instruction - MULT
+t3 contents: 1681
+
+PC: 3
+Instruction - ADD
+t3 contents: 1681
+
+PC: 4
+Instruction - ADD
+t3 contents: 1681
+
+PC: 0
+Instruction - j
+t3 contents: 1681
+
+PC: 1
+Instruction - beq
+t3 contents: 1681
+
+PC: 2
+Instruction - MULT
+t3 contents: 1764
+
+PC: 3
+Instruction - ADD
+t3 contents: 1764
+
+PC: 4
+Instruction - ADD
+t3 contents: 1764
+
+PC: 0
+Instruction - j
+t3 contents: 1764
+
+PC: 1
+Instruction - beq
+t3 contents: 1764
+
+PC: 2
+Instruction - MULT
+t3 contents: 1849
+
+PC: 3
+Instruction - ADD
+t3 contents: 1849
+
+PC: 4
+Instruction - ADD
+t3 contents: 1849
+
+PC: 0
+Instruction - j
+t3 contents: 1849
+
+PC: 1
+Instruction - beq
+t3 contents: 1849
+
+PC: 2
+Instruction - MULT
+t3 contents: 1936
+
+PC: 3
+Instruction - ADD
+t3 contents: 1936
+
+PC: 4
+Instruction - ADD
+t3 contents: 1936
+
+PC: 0
+Instruction - j
+t3 contents: 1936
+
+PC: 1
+Instruction - beq
+t3 contents: 1936
+
+PC: 2
+Instruction - MULT
+t3 contents: 2025
+
+PC: 3
+Instruction - ADD
+t3 contents: 2025
+
+PC: 4
+Instruction - ADD
+t3 contents: 2025
+
+PC: 0
+Instruction - j
+t3 contents: 2025
+
+PC: 1
+Instruction - beq
+t3 contents: 2025
+
+PC: 2
+Instruction - MULT
+t3 contents: 2116
+
+PC: 3
+Instruction - ADD
+t3 contents: 2116
+
+PC: 4
+Instruction - ADD
+t3 contents: 2116
+
+PC: 0
+Instruction - j
+t3 contents: 2116
+
+PC: 1
+Instruction - beq
+t3 contents: 2116
+
+PC: 2
+Instruction - MULT
+t3 contents: 2209
+
+PC: 3
+Instruction - ADD
+t3 contents: 2209
+
+PC: 4
+Instruction - ADD
+t3 contents: 2209
+
+PC: 0
+Instruction - j
+t3 contents: 2209
+
+PC: 1
+Instruction - beq
+t3 contents: 2209
+
+PC: 2
+Instruction - MULT
+t3 contents: 2304
+
+PC: 3
+Instruction - ADD
+t3 contents: 2304
+
+PC: 4
+Instruction - ADD
+t3 contents: 2304
+
+PC: 0
+Instruction - j
+t3 contents: 2304
+
+PC: 1
+Instruction - beq
+t3 contents: 2304
+
+PC: 2
+Instruction - MULT
+t3 contents: 2401
+
+PC: 3
+Instruction - ADD
+t3 contents: 2401
+
+PC: 4
+Instruction - ADD
+t3 contents: 2401
+
+PC: 0
+Instruction - j
+t3 contents: 2401
+
+PC: 1
+Instruction - beq
+t3 contents: 2401
+
+PC: 2
+Instruction - MULT
+t3 contents: 2500
+
+PC: 3
+Instruction - ADD
+t3 contents: 2500
+
+PC: 4
+Instruction - ADD
+t3 contents: 2500
+
+PC: 0
+Instruction - j
+t3 contents: 2500
+
+PC: 1
+Instruction - beq
+t3 contents: 2500
+
+PC: 2
+Instruction - MULT
+t3 contents: 2601
+
+PC: 3
+Instruction - ADD
+t3 contents: 2601
+
+PC: 4
+Instruction - ADD
+t3 contents: 2601
+
+PC: 0
+Instruction - j
+t3 contents: 2601
+
+PC: 1
+Instruction - beq
+t3 contents: 2601
+
+PC: 2
+Instruction - MULT
+t3 contents: 2704
+
+PC: 3
+Instruction - ADD
+t3 contents: 2704
+
+PC: 4
+Instruction - ADD
+t3 contents: 2704
+
+PC: 0
+Instruction - j
+t3 contents: 2704
+
+PC: 1
+Instruction - beq
+t3 contents: 2704
+
+PC: 2
+Instruction - MULT
+t3 contents: 2809
+
+PC: 3
+Instruction - ADD
+t3 contents: 2809
+
+PC: 4
+Instruction - ADD
+t3 contents: 2809
+
+PC: 0
+Instruction - j
+t3 contents: 2809
+
+PC: 1
+Instruction - beq
+t3 contents: 2809
+
+PC: 2
+Instruction - MULT
+t3 contents: 2916
+
+PC: 3
+Instruction - ADD
+t3 contents: 2916
+
+PC: 4
+Instruction - ADD
+t3 contents: 2916
+
+PC: 0
+Instruction - j
+t3 contents: 2916
+
+PC: 1
+Instruction - beq
+t3 contents: 2916
+
+PC: 2
+Instruction - MULT
+t3 contents: 3025
+
+PC: 3
+Instruction - ADD
+t3 contents: 3025
+
+PC: 4
+Instruction - ADD
+t3 contents: 3025
+
+PC: 0
+Instruction - j
+t3 contents: 3025
+
+PC: 1
+Instruction - beq
+t3 contents: 3025
+
+PC: 2
+Instruction - MULT
+t3 contents: 3136
+
+PC: 3
+Instruction - ADD
+t3 contents: 3136
+
+PC: 4
+Instruction - ADD
+t3 contents: 3136
+
+PC: 0
+Instruction - j
+t3 contents: 3136
+
+PC: 1
+Instruction - beq
+t3 contents: 3136
+
+PC: 2
+Instruction - MULT
+t3 contents: 3249
+
+PC: 3
+Instruction - ADD
+t3 contents: 3249
+
+PC: 4
+Instruction - ADD
+t3 contents: 3249
+
+PC: 0
+Instruction - j
+t3 contents: 3249
+
+PC: 1
+Instruction - beq
+t3 contents: 3249
+
+PC: 2
+Instruction - MULT
+t3 contents: 3364
+
+PC: 3
+Instruction - ADD
+t3 contents: 3364
+
+PC: 4
+Instruction - ADD
+t3 contents: 3364
+
+PC: 0
+Instruction - j
+t3 contents: 3364
+
+PC: 1
+Instruction - beq
+t3 contents: 3364
+
+PC: 2
+Instruction - MULT
+t3 contents: 3481
+
+PC: 3
+Instruction - ADD
+t3 contents: 3481
+
+PC: 4
+Instruction - ADD
+t3 contents: 3481
+
+PC: 0
+Instruction - j
+t3 contents: 3481
+
+PC: 1
+Instruction - beq
+t3 contents: 3481
+
+PC: 2
+Instruction - MULT
+t3 contents: 3600
+
+PC: 3
+Instruction - ADD
+t3 contents: 3600
+
+PC: 4
+Instruction - ADD
+t3 contents: 3600
+
+PC: 0
+Instruction - j
+t3 contents: 3600
+
+PC: 1
+Instruction - beq
+t3 contents: 3600
+
+PC: 2
+Instruction - MULT
+t3 contents: 3721
+
+PC: 3
+Instruction - ADD
+t3 contents: 3721
+
+PC: 4
+Instruction - ADD
+t3 contents: 3721
+
+PC: 0
+Instruction - j
+t3 contents: 3721
+
+PC: 1
+Instruction - beq
+t3 contents: 3721
+
+PC: 2
+Instruction - MULT
+t3 contents: 3844
+
+PC: 3
+Instruction - ADD
+t3 contents: 3844
+
+PC: 4
+Instruction - ADD
+t3 contents: 3844
+
+PC: 0
+Instruction - j
+t3 contents: 3844
+
+PC: 1
+Instruction - beq
+t3 contents: 3844
+
+PC: 2
+Instruction - MULT
+t3 contents: 3969
+
+PC: 3
+Instruction - ADD
+t3 contents: 3969
+
+PC: 4
+Instruction - ADD
+t3 contents: 3969
+
+PC: 0
+Instruction - j
+t3 contents: 3969
+
+PC: 1
+Instruction - beq
+t3 contents: 3969
+
+PC: 2
+Instruction - MULT
+t3 contents: 4096
+
+PC: 3
+Instruction - ADD
+t3 contents: 4096
+
+PC: 4
+Instruction - ADD
+t3 contents: 4096
+
+PC: 0
+Instruction - j
+t3 contents: 4096
+
+PC: 1
+Instruction - beq
+t3 contents: 4096
+
+PC: 2
+Instruction - MULT
+t3 contents: 4225
+
+PC: 3
+Instruction - ADD
+t3 contents: 4225
+
+PC: 4
+Instruction - ADD
+t3 contents: 4225
+
+PC: 0
+Instruction - j
+t3 contents: 4225
+
+PC: 1
+Instruction - beq
+t3 contents: 4225
+
+PC: 2
+Instruction - MULT
+t3 contents: 4356
+
+PC: 3
+Instruction - ADD
+t3 contents: 4356
+
+PC: 4
+Instruction - ADD
+t3 contents: 4356
+
+PC: 0
+Instruction - j
+t3 contents: 4356
+
+PC: 1
+Instruction - beq
+t3 contents: 4356
+
+PC: 2
+Instruction - MULT
+t3 contents: 4489
+
+PC: 3
+Instruction - ADD
+t3 contents: 4489
+
+PC: 4
+Instruction - ADD
+t3 contents: 4489
+
+PC: 0
+Instruction - j
+t3 contents: 4489
+
+PC: 1
+Instruction - beq
+t3 contents: 4489
+
+PC: 2
+Instruction - MULT
+t3 contents: 4624
+
+PC: 3
+Instruction - ADD
+t3 contents: 4624
+
+PC: 4
+Instruction - ADD
+t3 contents: 4624
+
+PC: 0
+Instruction - j
+t3 contents: 4624
+
+PC: 1
+Instruction - beq
+t3 contents: 4624
+
+PC: 2
+Instruction - MULT
+t3 contents: 4761
+
+PC: 3
+Instruction - ADD
+t3 contents: 4761
+
+PC: 4
+Instruction - ADD
+t3 contents: 4761
+
+PC: 0
+Instruction - j
+t3 contents: 4761
+
+PC: 1
+Instruction - beq
+t3 contents: 4761
+
+PC: 2
+Instruction - MULT
+t3 contents: 4900
+
+PC: 3
+Instruction - ADD
+t3 contents: 4900
+
+PC: 4
+Instruction - ADD
+t3 contents: 4900
+
+PC: 0
+Instruction - j
+t3 contents: 4900
+
+PC: 1
+Instruction - beq
+t3 contents: 4900
+
+PC: 2
+Instruction - MULT
+t3 contents: 5041
+
+PC: 3
+Instruction - ADD
+t3 contents: 5041
+
+PC: 4
+Instruction - ADD
+t3 contents: 5041
+
+PC: 0
+Instruction - j
+t3 contents: 5041
+
+PC: 1
+Instruction - beq
+t3 contents: 5041
+
+PC: 2
+Instruction - MULT
+t3 contents: 5184
+
+PC: 3
+Instruction - ADD
+t3 contents: 5184
+
+PC: 4
+Instruction - ADD
+t3 contents: 5184
+
+PC: 0
+Instruction - j
+t3 contents: 5184
+
+PC: 1
+Instruction - beq
+t3 contents: 5184
+
+PC: 2
+Instruction - MULT
+t3 contents: 5329
+
+PC: 3
+Instruction - ADD
+t3 contents: 5329
+
+PC: 4
+Instruction - ADD
+t3 contents: 5329
+
+PC: 0
+Instruction - j
+t3 contents: 5329
+
+PC: 1
+Instruction - beq
+t3 contents: 5329
+
+PC: 2
+Instruction - MULT
+t3 contents: 5476
+
+PC: 3
+Instruction - ADD
+t3 contents: 5476
+
+PC: 4
+Instruction - ADD
+t3 contents: 5476
+
+PC: 0
+Instruction - j
+t3 contents: 5476
+
+PC: 1
+Instruction - beq
+t3 contents: 5476
+
+PC: 2
+Instruction - MULT
+t3 contents: 5625
+
+PC: 3
+Instruction - ADD
+t3 contents: 5625
+
+PC: 4
+Instruction - ADD
+t3 contents: 5625
+
+PC: 0
+Instruction - j
+t3 contents: 5625
+
+PC: 1
+Instruction - beq
+t3 contents: 5625
+
+PC: 2
+Instruction - MULT
+t3 contents: 5776
+
+PC: 3
+Instruction - ADD
+t3 contents: 5776
+
+PC: 4
+Instruction - ADD
+t3 contents: 5776
+
+PC: 0
+Instruction - j
+t3 contents: 5776
+
+PC: 1
+Instruction - beq
+t3 contents: 5776
+
+PC: 2
+Instruction - MULT
+t3 contents: 5929
+
+PC: 3
+Instruction - ADD
+t3 contents: 5929
+
+PC: 4
+Instruction - ADD
+t3 contents: 5929
+
+PC: 0
+Instruction - j
+t3 contents: 5929
+
+PC: 1
+Instruction - beq
+t3 contents: 5929
+
+PC: 2
+Instruction - MULT
+t3 contents: 6084
+
+PC: 3
+Instruction - ADD
+t3 contents: 6084
+
+PC: 4
+Instruction - ADD
+t3 contents: 6084
+
+PC: 0
+Instruction - j
+t3 contents: 6084
+
+PC: 1
+Instruction - beq
+t3 contents: 6084
+
+PC: 2
+Instruction - MULT
+t3 contents: 6241
+
+PC: 3
+Instruction - ADD
+t3 contents: 6241
+
+PC: 4
+Instruction - ADD
+t3 contents: 6241
+
+PC: 0
+Instruction - j
+t3 contents: 6241
+
+PC: 1
+Instruction - beq
+t3 contents: 6241
+
+PC: 2
+Instruction - MULT
+t3 contents: 6400
+
+PC: 3
+Instruction - ADD
+t3 contents: 6400
+
+PC: 4
+Instruction - ADD
+t3 contents: 6400
+
+PC: 0
+Instruction - j
+t3 contents: 6400
+
+PC: 1
+Instruction - beq
+t3 contents: 6400
+
+PC: 2
+Instruction - MULT
+t3 contents: 6561
+
+PC: 3
+Instruction - ADD
+t3 contents: 6561
+
+PC: 4
+Instruction - ADD
+t3 contents: 6561
+
+PC: 0
+Instruction - j
+t3 contents: 6561
+
+PC: 1
+Instruction - beq
+t3 contents: 6561
+
+PC: 2
+Instruction - MULT
+t3 contents: 6724
+
+PC: 3
+Instruction - ADD
+t3 contents: 6724
+
+PC: 4
+Instruction - ADD
+t3 contents: 6724
+
+PC: 0
+Instruction - j
+t3 contents: 6724
+
+PC: 1
+Instruction - beq
+t3 contents: 6724
+
+PC: 2
+Instruction - MULT
+t3 contents: 6889
+
+PC: 3
+Instruction - ADD
+t3 contents: 6889
+
+PC: 4
+Instruction - ADD
+t3 contents: 6889
+
+PC: 0
+Instruction - j
+t3 contents: 6889
+
+PC: 1
+Instruction - beq
+t3 contents: 6889
+
+PC: 2
+Instruction - MULT
+t3 contents: 7056
+
+PC: 3
+Instruction - ADD
+t3 contents: 7056
+
+PC: 4
+Instruction - ADD
+t3 contents: 7056
+
+PC: 0
+Instruction - j
+t3 contents: 7056
+
+PC: 1
+Instruction - beq
+t3 contents: 7056
+
+PC: 2
+Instruction - MULT
+t3 contents: 7225
+
+PC: 3
+Instruction - ADD
+t3 contents: 7225
+
+PC: 4
+Instruction - ADD
+t3 contents: 7225
+
+PC: 0
+Instruction - j
+t3 contents: 7225
+
+PC: 1
+Instruction - beq
+t3 contents: 7225
+
+PC: 2
+Instruction - MULT
+t3 contents: 7396
+
+PC: 3
+Instruction - ADD
+t3 contents: 7396
+
+PC: 4
+Instruction - ADD
+t3 contents: 7396
+
+PC: 0
+Instruction - j
+t3 contents: 7396
+
+PC: 1
+Instruction - beq
+t3 contents: 7396
+
+PC: 2
+Instruction - MULT
+t3 contents: 7569
+
+PC: 3
+Instruction - ADD
+t3 contents: 7569
+
+PC: 4
+Instruction - ADD
+t3 contents: 7569
+
+PC: 0
+Instruction - j
+t3 contents: 7569
+
+PC: 1
+Instruction - beq
+t3 contents: 7569
+
+PC: 2
+Instruction - MULT
+t3 contents: 7744
+
+PC: 3
+Instruction - ADD
+t3 contents: 7744
+
+PC: 4
+Instruction - ADD
+t3 contents: 7744
+
+PC: 0
+Instruction - j
+t3 contents: 7744
+
+PC: 1
+Instruction - beq
+t3 contents: 7744
+
+PC: 2
+Instruction - MULT
+t3 contents: 7921
+
+PC: 3
+Instruction - ADD
+t3 contents: 7921
+
+PC: 4
+Instruction - ADD
+t3 contents: 7921
+
+PC: 0
+Instruction - j
+t3 contents: 7921
+
+PC: 1
+Instruction - beq
+t3 contents: 7921
+
+PC: 2
+Instruction - MULT
+t3 contents: 8100
+
+PC: 3
+Instruction - ADD
+t3 contents: 8100
+
+PC: 4
+Instruction - ADD
+t3 contents: 8100
+
+PC: 0
+Instruction - j
+t3 contents: 8100
+
+PC: 1
+Instruction - beq
+t3 contents: 8100
+
+PC: 2
+Instruction - MULT
+t3 contents: 8281
+
+PC: 3
+Instruction - ADD
+t3 contents: 8281
+
+PC: 4
+Instruction - ADD
+t3 contents: 8281
+
+PC: 0
+Instruction - j
+t3 contents: 8281
+
+PC: 1
+Instruction - beq
+t3 contents: 8281
+
+PC: 2
+Instruction - MULT
+t3 contents: 8464
+
+PC: 3
+Instruction - ADD
+t3 contents: 8464
+
+PC: 4
+Instruction - ADD
+t3 contents: 8464
+
+PC: 0
+Instruction - j
+t3 contents: 8464
+
+PC: 1
+Instruction - beq
+t3 contents: 8464
+
+PC: 2
+Instruction - MULT
+t3 contents: 8649
+
+PC: 3
+Instruction - ADD
+t3 contents: 8649
+
+PC: 4
+Instruction - ADD
+t3 contents: 8649
+
+PC: 0
+Instruction - j
+t3 contents: 8649
+
+PC: 1
+Instruction - beq
+t3 contents: 8649
+
+PC: 2
+Instruction - MULT
+t3 contents: 8836
+
+PC: 3
+Instruction - ADD
+t3 contents: 8836
+
+PC: 4
+Instruction - ADD
+t3 contents: 8836
+
+PC: 0
+Instruction - j
+t3 contents: 8836
+
+PC: 1
+Instruction - beq
+t3 contents: 8836
+
+PC: 2
+Instruction - MULT
+t3 contents: 9025
+
+PC: 3
+Instruction - ADD
+t3 contents: 9025
+
+PC: 4
+Instruction - ADD
+t3 contents: 9025
+
+PC: 0
+Instruction - j
+t3 contents: 9025
+
+PC: 1
+Instruction - beq
+t3 contents: 9025
+
+PC: 2
+Instruction - MULT
+t3 contents: 9216
+
+PC: 3
+Instruction - ADD
+t3 contents: 9216
+
+PC: 4
+Instruction - ADD
+t3 contents: 9216
+
+PC: 0
+Instruction - j
+t3 contents: 9216
+
+PC: 1
+Instruction - beq
+t3 contents: 9216
+
+PC: 2
+Instruction - MULT
+t3 contents: 9409
+
+PC: 3
+Instruction - ADD
+t3 contents: 9409
+
+PC: 4
+Instruction - ADD
+t3 contents: 9409
+
+PC: 0
+Instruction - j
+t3 contents: 9409
+
+PC: 1
+Instruction - beq
+t3 contents: 9409
+
+PC: 2
+Instruction - MULT
+t3 contents: 9604
+
+PC: 3
+Instruction - ADD
+t3 contents: 9604
+
+PC: 4
+Instruction - ADD
+t3 contents: 9604
+
+PC: 0
+Instruction - j
+t3 contents: 9604
+
+PC: 1
+Instruction - beq
+t3 contents: 9604
+
+PC: 2
+Instruction - MULT
+t3 contents: 9801
+
+PC: 3
+Instruction - ADD
+t3 contents: 9801
+
+PC: 4
+Instruction - ADD
+t3 contents: 9801
+
+PC: 0
+Instruction - j
+t3 contents: 9801
+
+PC: 6
+Instruction - beq
+t3 contents: 9801
+
